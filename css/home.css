@@ -1,0 +1,9 @@
+.tabla_planes{
+    float: left;
+    border: 1px solid #3f6ad8;
+    border-radius: 20px;
+}
+
+ul {
+    list-style-image: url('../img/ok.png');
+  }
